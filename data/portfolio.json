@@ -1,0 +1,95 @@
+{
+  "name": "Oliver J. Ramos",
+  "role": "3rd Year BSIT Student",
+  "college": "Torres Capitol College, Inc.",
+  "heroDescription": "An aspiring IT professional interested in software development, computer systems, troubleshooting, and practical technology solutions.",
+  "about": "I am Oliver J. Ramos, a 3rd year Bachelor of Science in Information Technology student at Torres Capitol College, Inc. I am developing my programming, troubleshooting, and software development skills through school projects and personal learning.",
+  "profileImage": "/assets/profile/1792021507658-profile.png",
+  "skills": [
+    "Python",
+    "HTML / CSS",
+    "JavaScript",
+    "Backend Development",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Access",
+    "Basic Computer Troubleshooting",
+    "Photo Editing"
+  ],
+  "projects": [
+    {
+      "title": "POS Grocery Store",
+      "image": "/assets/projects/1792021530962-received_1376994040878510.webp",
+      "description": "A grocery store point-of-sale project. ARRHS stands for Alcontin, Retazo, Ramos, Hioco, and Salo, this are the members of this project.",
+      "tools": [
+        "Pycharm",
+        "Python",
+        "JSON"
+      ],
+      "link": ""
+    },
+    {
+      "title": "Grading System",
+      "image": "/assets/projects/1792021547056-img_20240906_163537.jpg",
+      "description": "A system for organizing and calculating student grades. For efficient Input results.",
+      "tools": [
+        "Jave Eclips."
+      ],
+      "link": ""
+    },
+    {
+      "title": "OS Installation",
+      "image": "/assets/projects/1792021560401-received_953662000994334.jpeg",
+      "description": "A practical computer project involving operating system installation and configuration. Windows 11 Home 64bit.",
+      "tools": [
+        "Operating System",
+        "Computer Setup"
+      ],
+      "link": ""
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Robotics Certificate",
+      "issuer": "DEVCON_SUI CodeCamp BitsOfLight",
+      "date": "July 30, 2026",
+      "description": "Robotics activities, parts assembling and block code usage.",
+      "image": "/assets/certificates/1792021798540-screenshot-2026-10-15-070950.png"
+    },
+    {
+      "title": "Degital_portfolio SUI Certificate",
+      "issuer": "DEVCON_SUI CodeCamp BitsOfLight",
+      "date": "July 30, 2026",
+      "description": "Github account creation, Vercel deployments, and enjoyable task in progress.",
+      "image": "/assets/certificates/1792021929844-ramos-oliver.png"
+    },
+    {
+      "title": "Game_Development Certificate",
+      "issuer": "Torres Capitol Collge",
+      "date": "May 8, 2025",
+      "description": "Game development  ours was titled Block Dash, it has similar gameplay of geometry dash,",
+      "image": "/assets/certificates/1792022058946-1746952218590.jpg"
+    },
+    {
+      "title": "Getting Started with Cisco Packet Tracer",
+      "issuer": "Cisco Networking Academy",
+      "date": "Oct 8, 2026",
+      "description": "Understanding the basic fundamentals of Networking.",
+      "image": "/assets/certificates/1792022188437-screenshot-2026-10-11-093143.png"
+    }
+  ],
+  "education": [
+    {
+      "qualification": "Bachelor of Science in Information Technology",
+      "school": "Torres Capitol College, Inc.",
+      "period": "Current",
+      "details": "3rd Year Student"
+    }
+  ],
+  "contact": {
+    "email": "ramosoliver413@gmail.com",
+    "github": "https://github.com/ramosoliver413-blip?tab=repositories",
+    "facebook": "https://web.facebook.com/oliver.ramos.400255"
+  }
+}
